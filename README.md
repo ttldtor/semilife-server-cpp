@@ -1,6 +1,6 @@
 # The SemiLife Server
 
-[![CMake](https://github.com/ttldtor/semilife-server-cpp/actions/workflows/build.yml/badge.svg)](https://github.com/ttldtor/semilife-server-cpp/actions/workflows/build.yml)
+[![Build](https://github.com/ttldtor/semilife-server-cpp/actions/workflows/build.yml/badge.svg)](https://github.com/ttldtor/semilife-server-cpp/actions/workflows/build.yml)
 
 ```
 mkdir build
